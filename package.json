@@ -7,8 +7,9 @@
     "dev": "vite --port=3000 --host=0.0.0.0",
     "build": "vite build",
     "build:zip": "vite build && python3 -c \"import shutil; shutil.make_archive('dist', 'zip', 'dist')\"",
+    "start": "node server.js",
     "preview": "vite preview",
-    "clean": "rm -rf dist server.js",
+    "clean": "rm -rf dist dist.zip",
     "lint": "tsc --noEmit"
   },
   "dependencies": {
