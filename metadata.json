@@ -1,0 +1,6 @@
+{
+  "name": "EventsRentals.io - Event Rentals & Event Services",
+  "description": "Premium event rentals, food truck arrangements, jumping castles, popcorn carts, and complete party event services with interactive date availability and Calendly booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
